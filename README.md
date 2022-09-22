@@ -1,2 +1,1 @@
-# BUNNY-GAME
-HERE BUNNY TRIES TO EAT THE FRUIT WHILE MOVING,
+# bunny_feeder.github.io
